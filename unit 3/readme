@@ -1,6 +1,1 @@
-
-In a box on a 2 dimensional surface bounded by [-1, 1] on both x and y axis, given m circles (they cannot overlap) with variable radius r and center (x_m, y_m), find the optimal value of r and (x_m, y_m) which maximize sum of r^2.
-
-    Design an algorithm to solve the problem and use it as the comments in your code.
-    Implement your algorithm in C/C++/Python.
-    As usually, please comment the issue with the link to your solution.
+多创了一个文件夹...好像不能单独删除文件夹，只能删整个repositories。这个文件夹作废
