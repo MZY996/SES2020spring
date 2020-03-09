@@ -1,1 +1,10 @@
 
+The problem is:
+In a box on a 2 dimensional surface bounded by [-1, 1] on both x and y axis, given m circles (they cannot overlap) with variable radius r and center (x_m, y_m), find the optimal value of r and (x_m, y_m) which maximize sum of r^2.
+
+    Design an algorithm to solve the problem and use it as the comments in your code.
+    Implement your algorithm in C/C++/Python.
+    As usually, please comment the issue with the link to your solution.
+
+Here represents a solution with greedy algorithm .
+The code file is Balls_in_Box.py and the result of n=81 is shown in the picture Result_n=81.png.
